@@ -1,0 +1,10 @@
+folium
+geopy
+matplotlib
+numpy
+pandas
+plotly
+prophet
+scikit-learn
+seaborn
+statsmodels
