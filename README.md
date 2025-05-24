@@ -36,5 +36,5 @@ Includes a backtest-based forecast comparison for Oct–Dec 2024 using known act
 
 ---
 
-**Author:** *Your Name*  
-**Dataset:** US Domestic Aviation Passenger Data (2024)
+**Author:** *Prabhu Kiran Avula*  
+**Dataset:** US Domestic Aviation Passenger Data (2024) from USDOT
